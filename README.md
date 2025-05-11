@@ -1,6 +1,6 @@
 # ShopBaz
 ShopBaz - An Ecommerce Platform
-
+```
 🛍️ ShopBaz – Modern E-Commerce Platform
 ShopBaz is a full-stack eCommerce web application built using Next.js (App Router), MongoDB, and NextAuth for authentication. It allows users to browse products, add them to a cart, and place orders — while admins can manage inventory and orders through a secure dashboard.
 
@@ -43,6 +43,7 @@ View and manage all customer orders
 Update order status (Pending, Processing, Delivered)
 
 📁 Folder Structure Highlights
+
 app/
 ├── (auth)/login – NextAuth login
 ├── products/ – Product listing & details
@@ -56,6 +57,7 @@ app/
 Stripe/Razorpay integration
 
 Product search, filters, and sorting
+```
 
 Mobile-first responsive design
 
