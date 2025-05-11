@@ -9,15 +9,10 @@ ShopBaz is a full-stack eCommerce web application built using Next.js (App Route
 **🚀 Tech Stack**
 ```
 Frontend: Next.js (App Router), Tailwind CSS
-
 Backend: Next.js API Routes, MongoDB (via Mongoose)
-
 Authentication: NextAuth.js with Google OAuth
-
 Security: Middleware for admin route protection
-
 APIs: Amazon Product Advertising API (external product data)
-
 Other: Cloudinary (image uploads), Toast notifications
 ```
 
@@ -25,13 +20,9 @@ Other: Cloudinary (image uploads), Toast notifications
 🔓** User Features**
 ```
 Google sign-in with NextAuth
-
 Browse real products (Amazon API)
-
 Custom-designed product cards and pages
-
 Add to cart & checkout
-
 View past orders
 ```
 
@@ -39,13 +30,9 @@ View past orders
 **🛠️ Admin Features**
 ```
 Secure admin-only dashboard (middleware protected)
-
 Add/Edit/Delete products
-
 Upload product images (Cloudinary)
-
 View and manage all customer orders
-
 Update order status (Pending, Processing, Delivered)
 ```
 
@@ -64,11 +51,7 @@ app/
  ```
 Stripe/Razorpay integration
 Product search, filters, and sorting
-```
-
-
 Mobile-first responsive design
-
 User address management
-
 Product ratings & customer reviews
+```
